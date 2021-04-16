@@ -1,14 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
 
-.column {
-  width: 100%;
-}
 
-@media (min-width: 600px) {
-  .column {
-    width: 50%;
-  }
-}
 
 .nav-link{
   display: in-line;

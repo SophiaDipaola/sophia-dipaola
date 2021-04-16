@@ -18,7 +18,7 @@ function Selene() {
             <p>Django | Python | CSS | HTML | PostgresSQL</p>
             <hr/>
             <a  className="code-view" href="https://seleneshop.herokuapp.com/">View Live Demo</a>
-            <a  className="code-view" href="https://github.com/BrownMY/Selene">View Front-End Code</a>
+            <a  className="code-view" href="https://github.com/BrownMY/Selene">View Code</a>
             </div>
             <div className="proj-img-div">
             <img className="proj-img" src="https://i.imgur.com/SqoDhkg.png" alt="selene-homepage" />

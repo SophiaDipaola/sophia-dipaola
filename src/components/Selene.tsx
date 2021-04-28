@@ -23,9 +23,7 @@ function Selene() {
             <div className="proj-img-div">
             <img className="proj-img" src="https://i.imgur.com/SqoDhkg.png" alt="selene-homepage" />
             </div>
-            {/* <img className="proj-img" src="https://i.imgur.com/cTf3jtW.png" alt="selene-allprod" />
-            <img className="proj-img" src="https://i.imgur.com/9RX0EFB.png" alt="selene-mood" />
-            <img className="proj-img" src="https://i.imgur.com/Mx0XLq3.png" alt="selene-about" /> */}
+            
         </div>
         </div>
     )

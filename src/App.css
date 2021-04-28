@@ -29,9 +29,8 @@ body {
   font-family: 'Belleza', sans-serif;
 }
 .home-head{
-  display:flex;
-  justify-content: center;
-  align-items:center;
+  
+ 
   margin-top:200px;
   margin-bottom:100px;
   font-size:40px;
@@ -115,48 +114,80 @@ font-family: 'Belleza', sans-serif;
 .proj-desc{
   font-family: 'Belleza', sans-serif;
 }
-.left-ind {
+/* .left-ind {
   display:flex;
   justify-content: center;
   align-items: center;
-  width: 600px;
-  height: 400px;
+  /* width: 600px; */
+  /* height: 400px;
   margin: 10px 0px;
   overflow: hidden;
   object-fit: contain;
   object-position: center;
 
-}
+}  */
 .img-home{
   position: relative;
-  top: -25px;
-  height: auto;
+  top: -20px;
+  /* height: auto; */
   width: 100%;
-  width: 550px;
+  width: 500px;
   height: 310px;
   padding: 20px 20px 20px 20px;
+  
 }
 
-.img-home:hover {
+/* .img-home:hover {
   position: relative;
   top: -20px;
   height: auto;
   width: 120%;
 
+} */
+
+/* .img-home-div{
+  overflow: hidden;
+} */
+/* Brightness-zoom Container */
+/* .img-hover-zoom--brightness img {
+  transition: transform 2s, filter 1.5s ease-in-out;
+  transform-origin: center center;
+  filter: brightness(50%);
 }
 
-.img-home-div{
-  display: flexbox;
+/* The Transformation */
+/* .img-hover-zoom--brightness:hover img {
+  filter: brightness(100%);
+  transform: scale(1.3);
+}  */
+
+.mySlides {display: none}
+.my-img {vertical-align: middle;}
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  position: relative;
+  margin: auto;
 }
-.proj-container{
-  /* display:flexbox; */
-  margin-top:100px;
-  margin-left:180px;
-  margin-right:180px;
+/* Next & previous buttons */
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: var(--clr-dark);
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
 }
-.home-page{
-  
-} 
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
 
 .code-view{
   display: in-line;
@@ -363,4 +394,13 @@ span {
 a {
   text-decoration: none;
   color: black;
+}
+
+@media only screen and (max-width:450px){
+  body{
+    background-size:auto;
+  }
+  .name{
+    display:
+  }
 }

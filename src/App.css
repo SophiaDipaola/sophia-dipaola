@@ -39,7 +39,8 @@ body {
 
 .front{
   margin-bottom:-30px;
-  margin-left: 25px;
+  margin-left: 110px;
+  margin-top:-10px;
   font-family: 'Lobster Two', cursive;
 }
 .name{
@@ -385,11 +386,14 @@ a {
   color: black;
 }
 
-@media only screen and (max-width:450px){
+@media only screen and (max-width:812px){
   body{
     background-size:auto;
   }
   .name{
-    display:
+    font-size: 35px;
+  }
+  .front{
+
   }
 }

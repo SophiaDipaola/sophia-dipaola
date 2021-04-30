@@ -227,11 +227,6 @@ font-family: 'Belleza', sans-serif;
 }
 
 
-
-
-
-
-
 .menu {
   text-transform: uppercase;
   color: black;
@@ -386,14 +381,8 @@ a {
   color: black;
 }
 
-@media only screen and (max-width:812px){
+@media only screen and (max-width:450px){
   body{
-    background-size:auto;
-  }
-  .name{
-    font-size: 35px;
-  }
-  .front{
-
+    
   }
 }

@@ -383,6 +383,22 @@ a {
 
 @media only screen and (max-width:450px){
   body{
+    max-width:200px;
+    height: 812px;
     
+  }
+  ul {
+    margin-left: 90px;
+  }
+  .nav-link{
+    font-size: 20px;
+  }
+  .name{
+    font-size:30px;
+    margin-left: 190px;
+  }
+  .front{
+    font-size:22px;
+    margin-left:200px;
   }
 }

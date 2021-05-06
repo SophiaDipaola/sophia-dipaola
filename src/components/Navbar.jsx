@@ -13,7 +13,7 @@ function Navbar() {
                    
                     <NavLink className="nav-link" exact to="/about"><b>About</b></NavLink>
                     
-                    <a className="nav-link" target="_blank" rel="noreferrer" href="http://www.keepandshare.com/doc11/view.php?id=32068&da=y"><b>Resume</b></a>
+                    <a className="nav-link" target="_blank" rel="noreferrer" href="http://www.keepandshare.com/doc11/view.php?id=32072&da=y"><b>Resume</b></a>
                 </ul>
             </div>
         </nav>

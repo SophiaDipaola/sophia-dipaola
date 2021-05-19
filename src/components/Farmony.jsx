@@ -28,7 +28,7 @@ function Farmony() {
                         <h3 className="tech-head">Teachnolgoies Used</h3>
                         <p>React.js | HTML | CSS | MongoDB</p>
                         <hr />
-                        <a className="code-view" href="https://farmony-2.herokuapp.com/">View Live Demo</a>
+                        <a className="code-view" href="http://farmony-us.herokuapp.com/">View Live Demo</a>
                         <a className="code-view" href="https://github.com/SophiaDipaola/Farmony-frontend">View Front-End Code</a>
                         <a className="code-view" href="https://github.com/SophiaDipaola/Farmony-backend">View Back-End Code</a>
 
